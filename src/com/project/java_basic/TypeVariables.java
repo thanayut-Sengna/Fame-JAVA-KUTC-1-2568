@@ -16,4 +16,6 @@ public class TypeVariables {
         boolean result = false;
         System.out.println(Name+Number+ num+ Fame+ result+"เต่างับ");
     }
+
 }
+
