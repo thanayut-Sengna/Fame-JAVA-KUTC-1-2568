@@ -7,7 +7,6 @@ public class TypeVariables {
 
         int Number = 1213344111;
             System.out.println(Number);
-
         //float Numberf = (float)12.12;
         double num =123.123;
         System.out.println(num);

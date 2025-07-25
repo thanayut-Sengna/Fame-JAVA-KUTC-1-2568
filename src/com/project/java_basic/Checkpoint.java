@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class Checkpoint {
     public static void main(String[] args) {
+        System.out.println(5 + 10 +  " is the result");
+        System.out.println("Java" + 1 + 2);
         Scanner MC= new Scanner(System.in);
         System.out.println("Input your Scoll");
         int number = MC.nextInt();
